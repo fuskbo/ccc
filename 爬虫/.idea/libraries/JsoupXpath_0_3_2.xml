@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JsoupXpath-0.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/爬虫测试/src/main/webapp/lib/JsoupXpath-0.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/爬虫测试/src/main/webapp/lib/jsoup-1.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
